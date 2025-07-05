@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @danav90
-- 👀 I’m interested in programming and coading
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- Open to work as a Data Analyst/Mis.
+- skilled in Excel, Power BI, SQL, Python(numpy, pandas, matplotlib, seaborn)
 
 <!---
 danav90/danav90 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
